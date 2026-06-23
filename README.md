@@ -1,6 +1,2 @@
-# Extra Large Text (H1)
-## Large Text (H2)
-### Medium-Large Text (H3)
-#### Medium Text (H4)
-##### Small-Medium Text (H5)
-###### Small Text (H6)
+# Leetcode problems solutions
+#### this repository contains solutions for leetcode problems , will be updated frequently
