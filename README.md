@@ -1,3 +1,6 @@
-#LEETCODE SOLUTIONS
-
-###Here i have shared my leetcode solution , solutions will be updated daily
+# Extra Large Text (H1)
+## Large Text (H2)
+### Medium-Large Text (H3)
+#### Medium Text (H4)
+##### Small-Medium Text (H5)
+###### Small Text (H6)
